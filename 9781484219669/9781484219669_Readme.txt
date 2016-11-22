@@ -1,0 +1,12 @@
+===========================================================
+README FILE FOR BEGINNING RPG MAKER MV SOURCE CODE FOLDERS
+===========================================================
+by Darrin Perez
+
+Enclosed you will find 15 source code folders, one for each chapter of Beginning RPG Maker MV. Additionally, you will find another folder called Assets. This extra folder contains all of the audio and image files needed for the MV project files to function properly. You'll want to copy the audio and img folders within the Assets folder to each source code folder. For the sake of clarity, I have also provided a pair of images named Before.png and After.png so that you can get a visual reference of what I mean.
+
+You can find the CustomDamageFormulas.js and Snippets.js plugins in the source code folders for Chapters 14 and 15. Additionally, you'll also find the 1.0 plugins that Kadokawa includes with all copies of MV.
+
+Each chapter project contains all of the content covered in the book and implemented within the software up to that point in time. For example, the Chapter 3 source code project contains everything that was done within MV for Chapters 1 through 3.
+
+Most of the chapters were worked on using version 1.0 of MV, but the source code folders have been updated to version 1.1. While I see no reason why you wouldn't be able to run any given source code file chapter using version 1.0, upgrading to version 1.1 is recommended for compatibility purposes. 
